@@ -20,3 +20,5 @@ This repository contains my lab works. Names of the covered topics in mentioned 
 2. MS Word.
 3. Python Programming Language.
 4. MATLAB.
+5. PyCharm Community Edition
+6. VS Code.
